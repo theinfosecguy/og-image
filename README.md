@@ -6,7 +6,7 @@ For each keystroke, headless chromium is used to render an HTML page and take a 
 
 See the image embedded in the tweet for a real use case.
 
-[![Sample Image](https://og.bugblogs.tech/api/image?fileType=png&layoutName=Blog&Theme=Dark&Title=Hey%21+I%27m+using+BugBlogs+%26+I%27m+loving+it%21&Author=Keshav+Malik)](https://bugblogs.tech)
+[![Sample Image](https://og.bugblogs.tech/Hey!%20I'm%20using%20BugBlogs%20%26%20I'm%20loving%20it!.png?theme=dark&md=1&fontSize=75px&images=https%3A%2F%2Fucarecdn.com%2Fcdc7a226-83a7-434d-95b6-66c93d276c24%2F)](https://bugblogs.tech)
 
 ## How to setup? 🚀
 
