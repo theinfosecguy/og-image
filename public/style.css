@@ -301,6 +301,11 @@ img {
   transition: all 0.3s ease-in 0s;
 }
 
+.vercel-logo {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 .image-wrapper {
   display: block;
   cursor: pointer;
