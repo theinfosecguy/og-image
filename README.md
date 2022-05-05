@@ -26,4 +26,6 @@ vercel deploy
 
 Credit where credit is due. This started as a forked repo from [Vercel's OG image generator](https://github.com/vercel/og-image). It is modified to suit the needs of [BugBlogs](https://bugblogs.tech).
 
-[![Vercel Image](https://ucarecdn.com/df49f525-7c66-4000-b9fa-f79d936aa697)](https://vercel.com?utm_source=not-so-great-team&utm_campaign=oss)
+<br/>
+
+[![Sample Image](https://ucarecdn.com/df49f525-7c66-4000-b9fa-f79d936aa697/)](https://vercel.com?utm_source=not-so-great-team&utm_campaign=oss)
