@@ -88,16 +88,6 @@ const TextInput = ({
     )
   );
 };
-
-interface ButtonProps {
-  label: string;
-  onclick: () => void;
-}
-
-const Button = ({ label, onclick }: ButtonProps) => {
-  return H("button", { onclick }, label);
-};
-
 interface FieldProps {
   label: string;
   input: any;
