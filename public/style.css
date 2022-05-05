@@ -15,12 +15,12 @@ body {
 }
 
 h1 {
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 
 a {
   cursor: pointer;
-  color: #0076ff;
+  color: indigo;
   text-decoration: none;
   transition: all 0.2s ease;
 }

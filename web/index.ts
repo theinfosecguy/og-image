@@ -190,7 +190,7 @@ const App = (_: any, state: AppState, setState: SetState) => {
     fontSize = "75px",
     theme = "dark",
     md = true,
-    text = "Hello World",
+    text = "Hey! I'm using BugBlogs & I'm loving it!",
     images = [imageLightOptions[0].value],
     widths = [],
     heights = [],
