@@ -265,7 +265,7 @@ const App = (_: any, state: AppState, setState: SetState) => {
           }),
         }),
         H(Field, {
-          label: "Text Input",
+          label: "Blog Title",
           input: H(TextInput, {
             value: text,
             oninput: (val: string) => {
