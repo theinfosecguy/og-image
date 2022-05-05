@@ -8,7 +8,7 @@ body {
   color: white;
   --tw-bg-opacity: 1;
   background-color: rgba(19, 20, 21, var(--tw-bg-opacity));
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -310,6 +310,7 @@ img {
   margin-bottom: 50px;
   transition: all 0.2s ease;
   max-width: 100%;
+  text-align: center;
 }
 
 .image-wrapper:hover {
